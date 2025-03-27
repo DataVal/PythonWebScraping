@@ -35,5 +35,3 @@ print(titulos)
 livrosParaClicar = driver.find_elements(By.TAG_NAME, 'a')[54:94:2]
 livrosParaClicar[0].click()
 # posso usar driver.back() para voltar na página
-
-#Agora posso fazer algo mais bonitinho
