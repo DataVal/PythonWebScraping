@@ -40,7 +40,7 @@ def enviar_selecao():
 
 # Criando a janela principal
 root = ttk.Window(themename="darkly")
-root.title("Escolha de Livros")
+root.title("Web Scraping de Livros")
 root.geometry("350x250")
 root.resizable(False, False)
 
